@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SIMONplan/precache-manifest.81fe8897a3037cbb17bd78107f3c10bf.js"
+  "/SIMONplan/precache-manifest.2015e3b4a38b1e9c3f860bd37f705398.js"
 );
 
 self.addEventListener('message', (event) => {
