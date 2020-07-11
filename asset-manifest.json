@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SIMONplan/static/css/main.d8de464a.chunk.css",
+    "main.js": "/SIMONplan/static/js/main.a4c9468c.chunk.js",
+    "main.js.map": "/SIMONplan/static/js/main.a4c9468c.chunk.js.map",
+    "runtime-main.js": "/SIMONplan/static/js/runtime-main.10cbb8fa.js",
+    "runtime-main.js.map": "/SIMONplan/static/js/runtime-main.10cbb8fa.js.map",
+    "static/js/2.daf56afb.chunk.js": "/SIMONplan/static/js/2.daf56afb.chunk.js",
+    "static/js/2.daf56afb.chunk.js.map": "/SIMONplan/static/js/2.daf56afb.chunk.js.map",
+    "index.html": "/SIMONplan/index.html",
+    "precache-manifest.81fe8897a3037cbb17bd78107f3c10bf.js": "/SIMONplan/precache-manifest.81fe8897a3037cbb17bd78107f3c10bf.js",
+    "service-worker.js": "/SIMONplan/service-worker.js",
+    "static/css/main.d8de464a.chunk.css.map": "/SIMONplan/static/css/main.d8de464a.chunk.css.map",
+    "static/js/2.daf56afb.chunk.js.LICENSE.txt": "/SIMONplan/static/js/2.daf56afb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10cbb8fa.js",
+    "static/js/2.daf56afb.chunk.js",
+    "static/css/main.d8de464a.chunk.css",
+    "static/js/main.a4c9468c.chunk.js"
+  ]
+}
